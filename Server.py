@@ -12,4 +12,4 @@ class Server:
         if echo == 0:
             return
         else:
-            return
+            return 'Destination cannot be reached.'
