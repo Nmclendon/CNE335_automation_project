@@ -1,3 +1,7 @@
+# Nicholas McLendon
+# CNE 335 Fall 2023
+# This script pings and then connects to an Ubuntu EC2 to install services and update the server. It then reboots the server and closes the SSH connection.
+
 from Server import Server
 import paramiko
 
